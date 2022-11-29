@@ -2,6 +2,7 @@
 
 
 > cd NumoTestApp
+
 > npm i
 
 > expo start
