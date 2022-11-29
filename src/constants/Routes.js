@@ -1,0 +1,11 @@
+export default {
+    // NAVIGATION STACKS
+    AUTH_STACK : 'AUTH_STACK',
+    MAIN_STACK : 'MAIN_STACK',
+    TABS       : 'TABS',
+
+    // SCREENS
+    TODAY_EVENT_SCREEN : 'TODAY_EVENT_SCREEN',
+    HISTORY_SCREEN     : 'HISTORY_SCREEN'
+
+};

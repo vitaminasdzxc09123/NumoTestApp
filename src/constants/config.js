@@ -1,0 +1,1 @@
+export default apiConfig = 'https://v2.jokeapi.dev/'
